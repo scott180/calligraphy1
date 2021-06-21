@@ -26,9 +26,9 @@
 | 序号  | 仓库                                                			       |  备注             			                  |
 | ---   | -------------------------------------------------------------        |  -----------------------------------         |
 |   1   | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。                         |
-|   2   | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		|
-|   3   | [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [imgs]( https://codechina.csdn.net/xu180/imgs )  			|  备份，国内网站，速度快。用户较少。        	|
-|   4   | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			|  备份，最流行git仓库。国外网站，但有时打不开。|
+|   2   | [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [imgs]( https://codechina.csdn.net/xu180/imgs )  			|  备份，国内网站，速度快。用户较少。        	|
+|   3   | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			|  备份，最流行git仓库。国外网站，但有时打不开。|
+|   4   | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		|
 |   5   | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。   |
 |   -   | **社区**                        |                                    |               	|
 |   6   | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 )  |  程序员技术交流平台，发布文章，有删减。      |
@@ -43,11 +43,11 @@
 |   14  | [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )              |  pdf文件分享。                               |
 |   15  | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        |  笔记分享，无删减。               	          |
 |   -   | **网页**                        |                                    |               	|
-|   16  | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器                               |
-|   17  | [gitee_pages]( http://xy180.gitee.io/imgs/preview/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )       | gitee静态网页，关键词[屏蔽]。 |
-|   18  | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )   | github静态网页，无删减。      |
+|   16  | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
+|   17  | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )   | gitee静态网页，markdown转html。 |
+|   18  | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )   | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) 。      |
 
-```java
+```
 
 自二零二零年九月底练习书法以来，刚开始一直在gitee仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。
 后来有鉴于某云盘背信弃义停止服务，一个网站保存资料不保险，鸡蛋不能放到一个篮子里。
@@ -131,11 +131,11 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 ```
 
 ```
-3、在gitee仓库于2021-01-12 、2021-01-26删除了一些大文件，但是这些文件还在提交记录中，仍然占空间，所以仓库显得比较大（290M）。
-```
+3、github、gitee 仓库小问题
 
-```
-4、GitHub 图片加载不出来怎么办
+Ⅰ.在gitee仓库于2021-01-12 、2021-01-26删除了一些大文件，但是这些文件还在提交记录中，仍然占空间，所以仓库显得比较大（290M）。
+
+Ⅱ.GitHub 图片加载不出来怎么办
 打开路径 C:\Windows\System32\drivers\etc 下的 hosts 文件,添加下面的语句
 
 # GitHub Start 
@@ -155,6 +155,25 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 151.101.184.133 avatars6.githubusercontent.com
 151.101.184.133 avatars7.githubusercontent.com
 151.101.184.133 Build software better, together
+```
+
+
+```
+4、github、gitee静态网页发布 
+
+github pages 
+位置：Setting - GitHub Pages - Save
+优点：有十种主题可以选择；提交代码自动发布最新文件。
+不足：主题偏少。外网，选择主题时速度慢，但是发布后的文件访问较快。
+备注：删除目录下_config.yml文件即选择默认的markdown主题。
+
+
+gitee pages   
+位置：服务 - Gitee Pages - 启动
+优点：速度快。
+不足：无主题可选；markdown会还原成纯文本，需要转成html文件；提交新代码后每次需手动更新才能发布新文件。
+备注：有时服务改造，无法启动。
+
 ```
 
 ***
