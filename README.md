@@ -1,4 +1,4 @@
-## 书法练习
+## 书法练习轨迹ReadMe
 
 #### 自序
 
@@ -17,7 +17,13 @@
 四、希望究天人之际，通古今之变，成一家书法之言。目前字还是不够好，需继续练习。**坚持，自勉**。   <br/>
 `--2021-01-04`
 
+人情必有所寄，习惯而成自然。练着练着，书法就成了生活的一部分，记录书法练习轨迹更是有趣有意思的点缀。不能说是点缀，于我而言，练字与记录是相辅相成、缺一不可的关系。
+
+`--2021-07-03`
+
 ---
+
+<div STYLE="page-break-after: always;"></div>
 
 #### 网址
 
@@ -31,22 +37,23 @@
 | 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
 | 5    | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。      |
 | -    | **社区**                        |                                    |
-| 6    | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 )  |  程序员技术交流平台，发布文章，有删减。      |
-| 7    | [博客园]( https://www.cnblogs.com/scott123/p/14729493.html )         |  开发者知识分享社区。                        |
-| 8    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 )           |  文档与知识管理工具，无删减。                |
+| 6    | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 ) &ensp; [ReadMe]( https://blog.csdn.net/xu180/article/details/118492424 )  |  程序员技术交流平台，发布文章，有删减。      |
+| 7    | [博客园]( https://www.cnblogs.com/scott123/p/14729493.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
+| 8    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 ) &ensp; [ReadMe]( https://www.yuque.com/longguang123/ccgbto/oby4hq )                |  文档与知识管理工具，无删减。                |
 | -    | **云盘**                        |                                    |
-| 9    | [坚果云]( https://www.jianguoyun.com/p/DTnLeQEQxP-NBhjNrfED ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )                               |  文件分享。  |
+| 9    | [坚果云]( https://www.jianguoyun.com/p/DTnLeQEQxP-NBhjNrfED ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。  |
 | 10   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
 | 11   | [阿里云盘]( https://www.aliyundrive.com/s/g8Fs1Fm2XVN )              | pdf文件分享，需要登录。                      |
-| 12   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。                      |
-| 13   | [wps云盘]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
-| 14   | [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )              | pdf文件分享。                                |
-| 15   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
-| 16   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  |  文件分享，无删减。                          |
+| 12   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
+| 13   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
+| 14   | [wps云盘]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
+| 15   | [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )              | pdf文件分享。                                |
+| 16   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
+| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  |  文件分享，无删减。                          |
 | -    | **网页**                        |                                    |
-| 17   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
-| 18   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
-| 19   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) 。      |
+| 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
+| 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
+| 20   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) 。     |
 
 ```
 
@@ -81,12 +88,15 @@ coding--20210524
 以后字写好了能见人了再拿出来到头条、豆瓣、知乎等高流量渠道晒图、晒字。
 所谓十年磨一剑，砺得梅花香。
 
-如有游客想浏览本人的书法练习轨迹，可点击上面表格加粗部分gitlab、github_pages，这两处前者内容最全面，后者格式最美观。
+如有游客想浏览本人的书法练习轨迹，可点击上面表格首尾行加粗部分gitlab、github_pages，这两处前者内容最全面，后者格式最美观。
 
 以上 --20210527
 
 ```
+
 ---
+
+<div STYLE="page-break-after: always;"></div>
 
 #### 名帖
 
@@ -100,6 +110,8 @@ coding--20210524
 ![兰亭序]( ./书法字帖/兰亭序.jpg)
 
 ---
+
+<div STYLE="page-break-after: always;"></div>
 
 #### 附录
 
@@ -121,14 +133,20 @@ https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/20210
 gitee   加载快，有屏蔽
 https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 
-
 ```
 
 ```
 2、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
+
+① markdown转PDF
 Ⅰ.使用Typora 打开 markdown文件
 Ⅱ.点击 文件-导出-HTML
 Ⅲ.浏览器打开文件-打印-另存为PDF
+
+
+② markdown转PDF文件分页
+<div STYLE="page-break-after: always;"></div>
+
 ```
 
 ```
@@ -156,6 +174,7 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 151.101.184.133 avatars6.githubusercontent.com
 151.101.184.133 avatars7.githubusercontent.com
 151.101.184.133 Build software better, together
+
 ```
 
 
