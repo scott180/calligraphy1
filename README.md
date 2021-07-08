@@ -6,7 +6,7 @@
 二零二零庚子年九月底，有感大丈夫处身立世必有一技之长。 <br/>
 或曰**君子慎独**，一人之际，奋发之时。尝学英语，练吹埙，打篮球，志不在此，无有所成。 <br/>
 历年从事之业，设计、物流、销售、客服，加之当前程序员工作。或天资所限，或志不在此，难登顶峰。 <br/>
-快哉，路漫漫其修远兮，吾将上下求索。水落石出，拨云见日，惟书法是吾追求，趣之所向，志之所在，必持之以恒，有所为。自勉。   <br/>
+快哉，路漫漫其修远兮，吾将上下求索。水落石出，拨云见日，惟书法是吾追求，趣之所向，志之所在，必持之以恒，有所为。自勉。 <br/>
 `--2020-11-11`
 
 
@@ -14,20 +14,27 @@
 一、是要把所写的字，由丑到美，由差到好的过程保存下来，方便对照。不想练的时候，觉得没有进步的时候，看看以前的丑字又会给自己无穷的动力：原来自己进步蛮大，天天练习还是有意义的。 <br/>
 二、是寻找志同道合者，对书法有兴趣的可以联系本人，相互交流，共同进步，所谓他山之石，可以攻玉。同时也希望书法大师不吝赐教，光临指导。 <br/>
 三、炫耀+装逼，引流+宣传。毕竟人生在世，名利二字。当然肯定是一年半载甚至三年五载，小有所成之后才能晒图，发朋友圈，示字与人。 <br/>
-四、希望究天人之际，通古今之变，成一家书法之言。目前字还是不够好，需继续练习。**坚持，自勉**。   <br/>
+四、希望究天人之际，通古今之变，成一家书法之言。目前字还是不够好，需继续练习。**坚持，自勉**。 <br/>
 `--2021-01-04`
 
 人情必有所寄，习惯而成自然。练着练着，书法就成了生活的一部分，记录书法练习轨迹更是有趣有意思的点缀。不能说是点缀，于我而言，练字与记录是相辅相成、缺一不可的关系。
-
 `--2021-07-03`
 
 ---
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 网址
+#### 书法练习轨迹网址
 
 > 若无意外，一般每周一在gitlab《**书法练习轨迹--明月几时有**》记录上周练习情况。其他渠道，不定时同步。
+
+```
+以下网址包含三类文件：《书法练习轨迹--明月几时有》、《书法练习轨迹ReadMe》、书法练习轨迹图片。
+《书法练习轨迹--明月几时有》记录本人每周练习书法情况：包含练习图片及一些感悟。
+《书法练习轨迹ReadMe》即当前文档，是git平台的README文件：作自我介绍之意。
+书法练习轨迹图片是《书法练习轨迹--明月几时有》文档中图片实际保存地，markdown文件中看到的图片是图片链接。
+注：书法练习轨迹--明月几时有.md  README.md 都是markdown格式的文件。
+```
 
 | 序号 | 仓库                                                			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
@@ -47,9 +54,9 @@
 | 12   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
 | 13   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
 | 14   | [wps云盘]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
-| 15   | [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )              | pdf文件分享。                                |
+| 15   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
 | 16   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
-| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  |  文件分享，无删减。                          |
+| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
 | 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
 | 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
@@ -93,6 +100,19 @@ coding--20210524
 以上 --20210527
 
 ```
+
+---
+
+<div STYLE="page-break-after: always;"></div>
+
+#### 个人账号
+
+> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
+
+- **个人邮箱** &ensp; 1021151991@qq.com 
+- **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
+
 
 ---
 
@@ -195,5 +215,6 @@ gitee pages
 
 ```
 
-***
+
+
 
