@@ -58,7 +58,7 @@
 | 16   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
 | 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
-| 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
+| 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
 | 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
 | 20   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
 
@@ -101,44 +101,25 @@ coding--20210524
 
 ```
 
----
+```
+
+这几天github相关网页都打不开。果然，鸡蛋不能放在一个篮子里。
+若要查看书法练习轨迹相关文档，可到上述表格第一号“gitlab”项目。目前这个平台还是稳定的，本人最新记录正在此处。
+如感觉网速较慢或者页面加载不出来，可到第二号“csdn_code”或第十八号“作业部落”查看文档。此两处为国产软件，平台稳定，网速较快。
+--20210721
+
+```
 
 ---
 
-> 笔名汉字频率分析。<br>
+---
+
+> **笔名汉字频率分析** <br/>
 > 数据来自《[书法练习轨迹--明月几时有]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )》中关于本人笔名的记录。
 
 
-- **链接** &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/oby4hq ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
+- **链接** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy/-/blob/master/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90.md ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf ) &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
 
-
----
-
-<div STYLE="page-break-after: always;"></div>
-
-#### 个人账号
-
-> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
-
-- **个人邮箱** &ensp; 1021151991@qq.com 
-- **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
-- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
-
-
----
-
-<div STYLE="page-break-after: always;"></div>
-
-#### 名帖
-
-> 文徵明《小楷赤壁赋》 <br/>
-![文徵明《小楷赤壁赋》]( ./书法字帖/文徵明《小楷赤壁赋》.jpg)
-
-> 颜真卿-多宝塔碑 <br/>
-![多宝塔碑]( ./书法字帖/多宝塔碑.jpg)
-
-> 王羲之-兰亭序 <br/>
-![兰亭序]( ./书法字帖/兰亭序.jpg)
 
 ---
 
@@ -147,7 +128,62 @@ coding--20210524
 #### 附录
 
 ```
-1、各git仓库图片链接
+1、书法练习轨迹网址
+
+《书法练习轨迹--明月几时有》
+
+**仓库** 
+gitlab        https://gitlab.com/xuyq123/calligraphy
+csdn_code     https://codechina.csdn.net/xu180/calligraphy
+github        https://github.com/scott180/calligraphy 
+coding        https://xyqin.coding.net/public/my/calligraphy/git
+gitee         https://gitee.com/xy180/calligraphy 
+
+**社区**                           
+csdn博客      https://blog.csdn.net/xu180/article/details/113602103
+博客园        https://www.cnblogs.com/scott123/p/14729493.html
+语雀          https://www.yuque.com/longguang123/ccgbto/cbq9u0 
+
+**云盘**  
+坚果云        https://www.jianguoyun.com/p/DTnLeQEQxP-NBhjNrfED
+markdown      https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED                     
+百度网盘      https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ   提取码: zpxu  
+阿里云盘      https://www.aliyundrive.com/s/dKE1SMhqdwn 
+天翼云        https://cloud.189.cn/t/RRBbumb2MB7b
+和彩云        https://caiyun.139.com/m/i?125CmrCy7hU1y          提取码:WAmq 
+wps云盘       https://www.kdocs.cn/l/cpUDGjX6765H 
+微云          https://share.weiyun.com/JKZ4ANJ5   
+腾讯文档      https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx 
+有道云        http://note.youdao.com/s/V7b1jHjB 
+google云盘    https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing
+ 
+**网页**                       
+作业部落      https://www.zybuluo.com/scott180/note/1793757
+gitee_pages   http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
+github_pages  https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89
+
+---------
+
+《书法练习轨迹ReadMe》
+
+csdn博客      https://blog.csdn.net/xu180/article/details/118492424
+博客园        https://www.cnblogs.com/scott123/p/14972979.html
+语雀          https://www.yuque.com/longguang123/ccgbto/oby4hq
+
+---------
+
+书法练习轨迹图片
+
+gitlab        https://gitlab.com/xuyq123/imgs
+csdn_code     https://codechina.csdn.net/xu180/imgs
+github        https://github.com/scott180/imgs
+coding        https://xyqin.coding.net/public/my/imgs/git
+gitee         https://gitee.com/xy180/imgs
+
+```
+
+```
+2、各git仓库图片链接
 
 gitlab  国外网站，加载慢
 https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg
@@ -167,7 +203,7 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 ```
 
 ```
-2、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
+3、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
 
 ① markdown转PDF
 Ⅰ.使用Typora 打开 markdown文件
@@ -181,7 +217,7 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 ```
 
 ```
-3、github、gitee 仓库小问题
+4、github、gitee 仓库小问题
 
 Ⅰ.在gitee仓库于2021-01-12 、2021-01-26删除了一些大文件，但是这些文件还在提交记录中，仍然占空间，所以仓库显得比较大（290M）。
 
@@ -209,7 +245,7 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 ```
 
 ```
-4、github、gitee静态网页发布 
+5、github、gitee静态网页发布 
 
 github pages 
 位置：Setting - GitHub Pages - Save
@@ -226,6 +262,31 @@ gitee pages
 
 ```
 
+```
+6、名帖    
+文徵明《小楷赤壁赋》、颜真卿-多宝塔碑、王羲之-兰亭序   
+```
 
+> 文徵明《小楷赤壁赋》 <br/>
+![文徵明《小楷赤壁赋》]( ./书法字帖/文徵明《小楷赤壁赋》.jpg)
+
+> 颜真卿-多宝塔碑 <br/>
+![多宝塔碑]( ./书法字帖/多宝塔碑.jpg)
+
+> 王羲之-兰亭序 <br/>
+![兰亭序]( ./书法字帖/兰亭序.jpg)
+
+
+---
+
+#### 个人账号
+
+> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
+
+- **个人邮箱** &ensp; 1021151991@qq.com 
+- **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
+
+***
 
 
