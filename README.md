@@ -1,6 +1,6 @@
 ## 书法练习轨迹ReadMe
 
-#### 自序
+#### 一、自序
 
 幼时接触书法，学而未成。 <br/>
 二零二零庚子年九月底，有感大丈夫处身立世必有一技之长。 <br/>
@@ -24,7 +24,7 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 书法练习轨迹网址
+#### 二、书法练习轨迹网址
 
 > 若无意外，一般每周一在gitlab《**书法练习轨迹--明月几时有**》记录上周练习情况。其他渠道，不定时同步。
 
@@ -61,9 +61,45 @@
 | 19   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
 | 20   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
-| 21   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
+| 21   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
 | 22   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  |
 | 23   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html )     | gitlab静态网页，markdown转html。       |
+
+---
+
+> git平台mkdocs主题仓库
+
+```
+在git平台创建mkdocs主题仓库，自动将markdown文件生成静态网页。 
+将《书法练习轨迹--明月几时有》、《书法练习轨迹ReadMe》、《笔名汉字频率分析》等文件聚合在一起。 --20210803
+```
+
+| 仓库   | 地址                                               			      |  备注             			                 |
+| -----  | -------------------------------------------------------------      |  -----------------------------------         |
+| gitlab | [plain-mkdocs]( https://gitlab.com/xuyq123/plain-mkdocs ) &ensp; [**网页**]( https://xuyq123.gitlab.io/plain-mkdocs ) <br/>[plain-pip-mkdocs]( https://gitlab.com/xuyq123/plain-pip-mkdocs ) &ensp; [网页]( https://xuyq123.gitlab.io/plain-pip-mkdocs )  <br/>[plain-mkdocs-gitbook]( https://gitlab.com/xuyq123/plain-mkdocs-gitbook ) &ensp; [网页]( https://xuyq123.gitlab.io/plain-mkdocs-gitbook )            |  gitlab布署mkdocs：配置文件.gitlab-ci.yml。    |
+| github | [plain-mkdocs]( https://github.com/scott180/plain-mkdocs ) &ensp; [网页](  https://scott180.github.io/plain-mkdocs/ ) <br/>[plain-pip-mkdocs]( https://github.com/scott180/plain-pip-mkdocs ) &ensp; [网页]( https://scott180.github.io/plain-pip-mkdocs )  <br/>[plain-mkdocs-serve]( https://github.com/scott180/plain-mkdocs-serve )  &ensp; [网页]( https://scott180.github.io/plain-mkdocs-serve )              |  github布署mkdocs：命令mkdocs gh-deploy 。           |
+| gitee  |  [plain-mkdocs]( https://gitee.com/xy180/plain-mkdocs ) &ensp; [网页1]( http://xy180.gitee.io/plain-mkdocs/1/site/ ) &ensp; [网页2]( http://xy180.gitee.io/plain-mkdocs/2/site/ ) &ensp; [网页3]( http://xy180.gitee.io/plain-mkdocs/3/site/ )                                  |  gitee布署mkdocs：mkdocs build 布署目录。    |
+| note-mkdocs   | gitlab [note-mkdocs]( https://gitlab.com/xuyq123/note-mkdocs )&ensp; [**网页1**](  https://xuyq123.gitlab.io/note-mkdocs/ ) &ensp; [网页2](  https://xuyq123.gitlab.io/note-pip-mkdocs/ ) <br/>github [note-mkdocs]( https://github.com/scott180/note-mkdocs )&ensp; [网页](  https://scott180.github.io/note-mkdocs/ )<br/>gitee [plain-mkdocs]( https://gitee.com/xy180/plain-mkdocs/tree/master/note )&ensp; [网页](  http://xy180.gitee.io/plain-mkdocs/note/site/ )       |  个人笔记，含书法练习及java笔记。                        |
+| myblog-mkdocs   | gitlab [myblog-mkdocs]( https://gitlab.com/xuyq123/myblog-mkdocs )&ensp; [网页](  https://xuyq123.gitlab.io/myblog-mkdocs/ ) <br/>github [myblog-mkdocs]( https://github.com/scott180/myblog-mkdocs )&ensp; [网页](  https://scott180.github.io/myblog-mkdocs/ )<br/>gitee [myblog-mkdocs]( https://gitee.com/xy180/myblog-mkdocs )      |  我的博客                        |
+
+---
+
+> git平台docsify主题仓库
+
+| 名称       | 仓库                                                			        |  备注            |
+| ---------  | -------------------------------------------------------------        |  ----------      |
+| docsify   | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify )&ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify )&ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
+
+---
+
+> 笔名汉字频率分析 <br/>
+> 数据来自《[书法练习轨迹--明月几时有]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )》中关于本人笔名的记录。
+
+| 序号 | 1    | 2    | 3    | 4    | 5    |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|  **链接**   | [gitlab_pages]( https://xuyq123.gitlab.io/plain/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )  |  [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf )    | [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) | [csdn]( https://blog.csdn.net/xu180/article/details/118940065 )   | [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )   |
+
+---
 
 ```
 
@@ -123,21 +159,27 @@ bitbucket--20210726
 
 ---
 
-> [**笔名汉字频率分析**]( https://xuyq123.gitlab.io/plain/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 ) <br/>
-> 数据来自《[书法练习轨迹--明月几时有]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )》中关于本人笔名的记录。
-
-
-- **链接** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy/-/blob/master/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90.md ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf ) &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
-
-
----
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 附录
+#### 三、附录
+
+##### 1、书法练习轨迹链接
+
+> git平台 官网  项目地址 静态网页 mkdocs网页 HTTPS  SSH  图片地址  
+
+| 序号 | 官网 | 项目地址 | 静态网页 | mkdocs网页 | HTTPS | SSH | 图片地址 |
+| ---  | ---- | -------- | -------- | ---------- | ----- | --- | -------- |
+| 1    | [gitlab]( https://gitlab.com/explore/projects/trending ) | [calligraphy]( https://gitlab.com/xuyq123/calligraphy ) | [书法练习轨迹]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-pip-mkdocs]( https://xuyq123.gitlab.io/plain-pip-mkdocs ) | `https://gitlab.com/xuyq123/calligraphy.git` | `git@gitlab.com:xuyq123/calligraphy.git` | [2021050202.jpg]( https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg ) |
+| 2    | [csdn_code]( https://codechina.csdn.net/xu180 ) | [calligraphy]( https://codechina.csdn.net/xu180/calligraphy ) | - | - | `https://codechina.csdn.net/xu180/calligraphy.git` | `git@codechina.csdn.net:xu180/calligraphy.git` | [2021042504.jpg]( https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg ) |
+| 3    | [coding]( https://e.coding.net/login ) | [calligraphy]( https://xyqin.coding.net/p/my/d/calligraphy/git ) | [public]( https://xyqin.coding.net/public/my/calligraphy/git/files ) | - | `https://e.coding.net/xyqin/my/calligraphy.git` | `git@e.coding.net:xyqin/my/calligraphy.git` | [2021042601.jpg]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/mingyue/2021/202105/2021042601.jpg ) |
+| 4    | [bitbucket]( https://bitbucket.org/product/ ) | [calligraphy]( https://bitbucket.org/xu12345/calligraphy ) | - | - | `https://bitbucket.org/xu12345/calligraphy.git` | `git@bitbucket.org:xu12345/calligraphy.git` | [2021072402.jpg]( https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/mingyue/2021/202107/2021072402.jpg ) |
+| 5    | [github]( https://github.com/scott180 ) | [calligraphy]( https://github.com/scott180/calligraphy ) | [书法练习轨迹]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | [plain-mkdocs]( https://scott180.github.io/plain-mkdocs/ ) | `https://github.com/scott180/calligraphy.git` | `git@github.com:scott180/calligraphy.git` | [2021042501.jpg]( https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg ) |
+| 6    | [gitee]( https://gitee.com/xy180 ) | [calligraphy]( https://gitee.com/xy180/calligraphy ) | [书法练习轨迹]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-mkdocs]( http://xy180.gitee.io/plain-mkdocs/1/site ) | `https://gitee.com/xy180/calligraphy.git` | `git@gitee.com:xy180/calligraphy.git` | [2021040202.jpg]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg ) |
+
 
 ```
-1、书法练习轨迹网址
+1、书法练习轨迹链接
 
 《书法练习轨迹--明月几时有》
 
@@ -170,7 +212,7 @@ google云盘    https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNf
  
 **网页**                       
 作业部落      https://www.zybuluo.com/scott180/note/1793757
-gitee_pages   http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
+gitee_pages   http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
 github_pages  https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89
 gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
 
@@ -183,7 +225,7 @@ csdn博客      https://blog.csdn.net/xu180/article/details/118492424
 语雀          https://www.yuque.com/longguang123/ccgbto/oby4hq
 飞书          https://nal4j8dwi0.feishu.cn/docs/doccnpf5pWihfu3aW4psk5vO7ue
 作业部落	  https://www.zybuluo.com/scott180/note/892814
-gitee_pages   http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
+gitee_pages   http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
 github_pages  https://scott180.github.io/calligraphy
 gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
  
@@ -198,7 +240,61 @@ coding        https://xyqin.coding.net/public/my/imgs/git
 gitee         https://gitee.com/xy180/imgs
 bitbucket     https://bitbucket.org/xu12345/imgs
 
+
+---------
+
+
+gitlab mkdocs主题仓库
+
+plain-mkdocs     
+	https://gitlab.com/xuyq123/plain-mkdocs   
+	https://xuyq123.gitlab.io/plain-mkdocs   
+plain-pip-mkdocs      
+	https://gitlab.com/xuyq123/plain-pip-mkdocs  
+	https://xuyq123.gitlab.io/plain-pip-mkdocs   
+plain-mkdocs-gitbook  
+	https://gitlab.com/xuyq123/plain-mkdocs-gitbook  
+	https://xuyq123.gitlab.io/plain-mkdocs-gitbook   
+
+
+github mkdocs主题仓库
+plain-mkdocs 
+	https://github.com/scott180/plain-mkdocs   
+	https://scott180.github.io/plain-mkdocs/
+
+	
+gitee mkdocs主题仓库	
+	https://gitee.com/xy180/plain-mkdocs/ 	
+	http://xy180.gitee.io/plain-mkdocs/1/site
+	
+	
+note-mkdocs   个人笔记，含书法练习及java笔记。
+	https://gitlab.com/xuyq123/note-mkdocs    https://xuyq123.gitlab.io/note-mkdocs/
+	https://github.com/scott180/note-mkdocs   https://scott180.github.io/note-mkdocs/
+	https://gitee.com/xy180/plain-mkdocs/tree/master/note   http://xy180.gitee.io/plain-mkdocs/note/site
+
+
+docsify主题仓库 	
+	https://gitlab.com/xuyq123/plain-docsify 
+	https://xuyq123.gitlab.io/plain-docsify/
+	
+	https://github.com/scott180/plain-docsify
+	https://scott180.github.io/plain-docsify/ 
+
+	
+古文诗词
+https://blog.csdn.net/xu180/article/details/118940022
+https://zhuanlan.zhihu.com/p/399112509
+https://www.jianshu.com/p/1c8613c90c7c
+https://www.zybuluo.com/scott180/note/1815061
+https://www.douban.com/note/810205173/
+https://www.cnblogs.com/scott123/p/15141189.html	
+
 ```
+
+----
+
+##### 2、各git仓库图片链接
 
 ```
 2、各git仓库图片链接
@@ -223,6 +319,10 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 
 ```
 
+---
+
+##### 3、如何将markdown文件导出为带图片的PDF 
+
 ```
 3、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
 
@@ -237,10 +337,15 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 
 ```
 
+---
+
+##### 4、github、gitee 仓库小问题
+
 ```
 4、github、gitee 仓库小问题
 
 Ⅰ.在gitee仓库于2021-01-12 、2021-01-26删除了一些大文件，但是这些文件还在提交记录中，仍然占空间，所以仓库显得比较大（290M）。
+
 
 Ⅱ.GitHub 图片加载不出来怎么办
 打开路径 C:\Windows\System32\drivers\etc 下的 hosts 文件,添加下面的语句
@@ -259,14 +364,36 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 151.101.184.133 avatars3.githubusercontent.com
 151.101.184.133 Build software better, together
 151.101.184.133 avatars5.githubusercontent.com
-151.101.184.133 avatars6.githubusercontent.com
+151.101.184.133 avatars6.githubusercontent.comⅢ
 151.101.184.133 avatars7.githubusercontent.com
 151.101.184.133 Build software better, together
 
-```
+
+Ⅲ.github.io（github pages）访问不了
+参考 https://blog.csdn.net/nima1994/article/details/107985198
+
+1、修改系统的hosts （C:\Windows\System32\drivers\etc），添加
+
+# GitHub Start 
+185.199.110.153 catalyst-team.github.io
+185.199.111.153 raw.githubusercontent.com
+
+2、修改本地连接 IPv4属性
+控制面板--网络和 Internet--网络和共享中心--查看活动网络--本地连接--属性--Internet 协议版本4（TCP/IPv4）--属性--使用下面的DNS服务器地址
+首选DNS服务器设置为 223.5.5.5
+备用DNS服务器设置为 223.6.6.6
 
 ```
-5、github、gitee、gitlab静态网页发布 
+
+---
+
+##### 5、git静态网页发布 
+
+> [gitlab、github、gitee布署mkdocs主题仓库]( 
+https://gitlab.com/xuyq123/mynotes/-/blob/master/gitlab%E3%80%81github%E3%80%81gitee%E5%B8%83%E7%BD%B2mkdocs%E4%B8%BB%E9%A2%98%E4%BB%93%E5%BA%93.md ) &ensp; &ensp; [git平台docsify布署markdown文件]( https://gitlab.com/xuyq123/mynotes/-/blob/master/git%E5%B9%B3%E5%8F%B0docsify%E5%B8%83%E7%BD%B2markdown%E6%96%87%E4%BB%B6.md )
+
+```
+github、gitee、gitlab静态网页发布 
 
 github pages 
 位置：Setting - GitHub Pages - Save
@@ -282,7 +409,7 @@ gitee pages
 备注：有时服务改造，无法启动。
 
 
---- 
+------ 
 
 
 gitlab pages   
@@ -308,7 +435,15 @@ pages:
   only:
   - master
    
+   
 ```
+
+
+---
+
+---
+
+##### 6、名帖    
 
 ```
 6、名帖    
@@ -324,16 +459,16 @@ pages:
 > 王羲之-兰亭集序 <br/>
 ![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg)
 
-
 ---
 
-#### 个人账号
+#### 四、个人账号
 
 > 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
 
 - **个人邮箱** &ensp; 1021151991@qq.com 
 - **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
-- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [bitbucket]( https://bitbucket.org/xu12345/calligraphy )
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [gitlab_mkdocs]( https://xuyq123.gitlab.io/plain-mkdocs/ )
+
 
 ***
 
