@@ -196,16 +196,16 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 ### 1、书法练习轨迹链接
 
-> git平台 官网  项目地址 静态网页 mkdocs网页 HTTPS  SSH  图片地址  
+> git平台 官网  项目地址 静态网页 docsify网页 mkdocs网页 HTTPS  SSH  图片地址  
 
-| 序号 | 官网 | 项目地址 | 静态网页 | mkdocs网页 | HTTPS | SSH | 图片地址 |
-| ---  | ---- | -------- | -------- | ---------- | ----- | --- | -------- |
-| 1    | [gitlab]( https://gitlab.com/explore/projects/trending ) | [calligraphy]( https://gitlab.com/xuyq123/calligraphy ) | [书法练习轨迹]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-pip-mkdocs]( https://xuyq123.gitlab.io/plain-pip-mkdocs ) | `https://gitlab.com/xuyq123/calligraphy.git` | `git@gitlab.com:xuyq123/calligraphy.git` | [2021050202.jpg]( https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg ) |
-| 2    | [csdn_code]( https://codechina.csdn.net/xu180 ) | [calligraphy]( https://codechina.csdn.net/xu180/calligraphy ) | - | - | `https://codechina.csdn.net/xu180/calligraphy.git` | `git@codechina.csdn.net:xu180/calligraphy.git` | [2021042504.jpg]( https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg ) |
-| 3    | [coding]( https://e.coding.net/login ) | [calligraphy]( https://xyqin.coding.net/p/my/d/calligraphy/git ) | [public]( https://xyqin.coding.net/public/my/calligraphy/git/files ) | - | `https://e.coding.net/xyqin/my/calligraphy.git` | `git@e.coding.net:xyqin/my/calligraphy.git` | [2021042601.jpg]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/mingyue/2021/202105/2021042601.jpg ) |
-| 4    | [bitbucket]( https://bitbucket.org/product/ ) | [calligraphy]( https://bitbucket.org/xu12345/calligraphy ) | - | - | `https://bitbucket.org/xu12345/calligraphy.git` | `git@bitbucket.org:xu12345/calligraphy.git` | [2021072402.jpg]( https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/mingyue/2021/202107/2021072402.jpg ) |
-| 5    | [github]( https://github.com/scott180 ) | [calligraphy]( https://github.com/scott180/calligraphy ) | [书法练习轨迹]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | [plain-mkdocs]( https://scott180.github.io/plain-mkdocs/ ) | `https://github.com/scott180/calligraphy.git` | `git@github.com:scott180/calligraphy.git` | [2021042501.jpg]( https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg ) |
-| 6    | [gitee]( https://gitee.com/xy180 ) | [calligraphy]( https://gitee.com/xy180/calligraphy ) | [书法练习轨迹]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-mkdocs]( http://xy180.gitee.io/plain-mkdocs/1/site ) | `https://gitee.com/xy180/calligraphy.git` | `git@gitee.com:xy180/calligraphy.git` | [2021040202.jpg]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg ) |
+| 序号 | 官网 | 项目地址 | 静态网页 | docsify网页 | mkdocs网页 | HTTPS | SSH | 图片地址 |
+| ---  | ---- | -------- | -------- | ----------- | ---------- | ----- | --- | -------- |
+| 1    | [gitlab]( https://gitlab.com/explore/projects/trending ) | [calligraphy]( https://gitlab.com/xuyq123/calligraphy ) | [书法练习轨迹]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-docsify]( https://xuyq123.gitlab.io/plain-docsify/ ) &ensp; [myblog-docsify]( https://xuyq123.gitlab.io/myblog-docsify/ ) | [plain-pip-mkdocs]( https://xuyq123.gitlab.io/plain-pip-mkdocs ) | `https://gitlab.com/xuyq123/calligraphy.git` | `git@gitlab.com:xuyq123/calligraphy.git` | [2021050202.jpg]( https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg ) |
+| 2    | [csdn_code]( https://codechina.csdn.net/xu180 ) | [calligraphy]( https://codechina.csdn.net/xu180/calligraphy ) | - | - |  - | `https://codechina.csdn.net/xu180/calligraphy.git` | `git@codechina.csdn.net:xu180/calligraphy.git` | [2021042504.jpg]( https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg ) |
+| 3    | [coding]( https://e.coding.net/login ) | [calligraphy]( https://xyqin.coding.net/p/my/d/calligraphy/git ) | [public]( https://xyqin.coding.net/public/my/calligraphy/git/files ) | - | - |  `https://e.coding.net/xyqin/my/calligraphy.git` | `git@e.coding.net:xyqin/my/calligraphy.git` | [2021042601.jpg]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/mingyue/2021/202105/2021042601.jpg ) |
+| 4    | [bitbucket]( https://bitbucket.org/product/ ) | [calligraphy]( https://bitbucket.org/xu12345/calligraphy ) | - | - | - |  `https://bitbucket.org/xu12345/calligraphy.git` | `git@bitbucket.org:xu12345/calligraphy.git` | [2021072402.jpg]( https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/mingyue/2021/202107/2021072402.jpg ) |
+| 5    | [github]( https://github.com/scott180 ) | [calligraphy]( https://github.com/scott180/calligraphy ) | [书法练习轨迹]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | [plain-docsify]( https://scott180.github.io/plain-docsify/ ) &ensp; [myblog-docsify]( https://scott180.github.io/myblog-docsify/ ) | [plain-mkdocs]( https://scott180.github.io/plain-mkdocs/ ) | `https://github.com/scott180/calligraphy.git` | `git@github.com:scott180/calligraphy.git` | [2021042501.jpg]( https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg ) |
+| 6    | [gitee]( https://gitee.com/xy180 ) | [calligraphy]( https://gitee.com/xy180/calligraphy ) | [书法练习轨迹]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) |  - | [plain-mkdocs]( http://xy180.gitee.io/plain-mkdocs/1/site ) | `https://gitee.com/xy180/calligraphy.git` | `git@gitee.com:xy180/calligraphy.git` | [2021040202.jpg]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg ) |
 
 
 ```
@@ -507,7 +507,114 @@ pages:
 
 ---
 
-## 四、个人账号
+## 四、诗词杂句
+
+> 统计总合《书法练习轨迹》中本人所作的诗词杂句。
+
+---
+
+### 1、诗词
+
+```
+半生有感 
+龙骨山上风车横，转去庐州蜀山风。
+十年一觉世不同，西湖水清临安梦。
+
+--202105
+
+```
+
+```
+无题
+苦思冥想诗一首，
+漫漫人生三十已。
+若论何事挂心头，
+书法练习轨迹有。
+
+--20210712
+
+```
+
+```
+游青山湖
+青山湖道，郁郁葱葱。
+背山面水，景色宜人。
+古木参天，中有绿道。
+草原辽阔，水面清圆。
+免费景点，游人如织。
+交通拥堵，绿色出行。
+保护环境，人人有责。
+
+--202111
+
+```
+
+```
+一时易，长久难。
+放弃易，努力难。
+玩乐易，学习难。
+躺平易，奋斗难。
+生存易，生活难。
+平凡易，伟大难。
+
+--20211102
+
+```
+
+
+### 2、杂句
+
+```
+我的三观：人生观、世界观、价值观，亦即人生信条、五字真言：制 恒 强 变 真。
+制：制怒、自制、克制，不冲动、不贪婪，任何时候都要保持冷静，泰山崩于前而色不变。心平气和才能修身养性。
+恒：持之以恒，学习任何知识、技能都要长久的奋斗，坚持就是胜利。
+强：坚强、自强、自信、自立。
+变：变化，见机行事，随机应变。世上唯一的不变就是变化。
+真：真诚、真实。待人以诚、待己以真。认识自己，了解自己的优点缺点，知道自己要干什么。世上乱花迷人眼，需要仔细甄别，方能去伪存真。
+
+前三条（制、恒、强）是对内，对自己，后两条（变 真）是对外，对别人。只有内外兼修，审慎笃行，两手都要抓，两手都要硬，才能辨别真伪，提高自身。
+若感觉观点太多，信条很杂，只需要记住一个字：制。即可。
+--202106
+
+```
+
+
+```
+人情必有所寄，然后能静，能定，能乐。
+寄于山水，得之旷达。
+寄于明月，得之幽深。
+寄于诗词文章，得之文华。
+寄于琴棋书画，得之才气。
+--20210611
+
+```
+
+```
+一生只做一件事，一生做好一件事。 --20210801
+
+在我生前，流传的是别人的故事。
+在我生后，世界会流传我的故事。
+
+漫漫前路，来日方长。
+生亦何欢，死亦何惧。
+无愧于心，无惧于行。
+脚踏实地，持续向前。
+
+```
+
+```
+三不三观
+友谊观：不打扰
+恋爱观：不将就
+人生观：不作恶
+--2021.10.19
+
+```
+
+---
+
+
+## 五、个人账号
 
 > 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。--202107
 
