@@ -49,7 +49,7 @@
 
 | 序号 | 仓库                                                			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
-| 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。                            |
+| 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。每周一在此记录。            |
 | 2    | [sourceforge]( https://sourceforge.net/p/calligraphy/code ) &ensp; [imgs]( https://sourceforge.net/p/calligraphy/imgs )  		|  备份，网速较快，可保存公开资料。        	       |
 | 3    | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			    |  备份，最流行git仓库。国外网站，但有时打不开。   |
 | 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
@@ -57,33 +57,39 @@
 | 6    | [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [imgs]( https://bitbucket.org/xu12345/imgs )                   |  备份，国外网站。markdown渲染不太完善。          |
 | 7    | [gitcode]( https://gitcode.net/xu180/calligraphy ) &ensp; [imgs]( https://gitcode.net/xu180/imgs )                             |  备份，csdn仓库。网速快，但偶尔会被封禁。        |
 | 8    | [codeberg]( https://codeberg.org/xuyq/calligraphy ) &ensp; [imgs]( https://codeberg.org/xuyq/imgs )                            |  备份，国外网站，速度还不错。                    |
+| -    | **内容**                        |                                    |
+| 9    | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20 )     |  自媒体，每周一在此发布书法练习轨迹。            |
+| 10   | [今日头条]( https://www.toutiao.com/a7003584972175147528/ )          |  通用信息平台，看见更大的世界。              |
+| 11   | [知乎]( https://zhuanlan.zhihu.com/p/403400860 )                     |  问答社区和创作者聚集的原创内容平台。        |
+| 12   | [豆瓣]( https://www.douban.com/note/811096721/ )                     |  发现优质书影音，记录生活表达自我。          |
 
 ---
 
 | 序号 | **社区**                                              			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
 | 1    | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 ) &ensp; [ReadMe]( https://blog.csdn.net/xu180/article/details/118492424 )  |  程序员技术交流平台，发布文章，有删减。      |
-| 2    | [博客园]( https://www.cnblogs.com/scott123/p/14729493.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
+| 2    | [博客园]( https://www.cnblogs.com/scott123/p/15184752.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
 | 3    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 ) &ensp; [ReadMe]( https://www.yuque.com/longguang123/ccgbto/oby4hq )                |  文档与知识管理工具，无删减。阿里巴巴产品。  |
 | -    | **笔记**                        |                                    |
 | 4    | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
-| 5    | [金山文档]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
+| 5    | [金山文档]( https://www.kdocs.cn/l/cpUDGjX6765H )                    | pdf文件分享，需要登录。                      |
 | 6    | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
 | 7    | [飞书]( https://nal4j8dwi0.feishu.cn/docs/doccntwAAd1yjADzHGQT0ueBkN7 ) &ensp; [ReadMe]( https://nal4j8dwi0.feishu.cn/docs/doccnpf5pWihfu3aW4psk5vO7ue )           | 办公平台。字节跳动产品。|
 | 8    | [我来]( https://www.wolai.com/rDqeCwfv87RLPPmuu2fvyi ) &ensp; [ReadMe]( https://www.wolai.com/npaRuQ7wj44TYHqup5xg2w )                        | 不仅仅是未来的云端协作平台与个人笔记。       |
-| 9    | [notion]( https://brick-windshield-519.notion.site/4c6820d4272a4b91ba50b15077869b7e ) &ensp; [ReadMe]( https://brick-windshield-519.notion.site/ReadMe-5c35fb0d0da644bb98e673cc98409ad5 )     | 笔记个人空间。       |
+| 9    | [notion]( https://brick-windshield-519.notion.site/4c6820d4272a4b91ba50b15077869b7e ) &ensp; [ReadMe]( https://brick-windshield-519.notion.site/ReadMe-5c35fb0d0da644bb98e673cc98409ad5 )    | 笔记个人空间。       |
+| 10   | [boostnote]( https://boostnote.io/shared/c45f0095-bffc-40e9-93da-bb3927e60294 ) &ensp; [ReadMe]( https://boostnote.io/shared/1ae6faaa-ee9e-4659-8721-650d1b272f7f ) | 专为程序员提供的markdown笔记本软件。          |
 | -    | **云盘**                        |                                    |
-| 10   | [坚果云]( https://www.jianguoyun.com/p/DTnLeQEQxP-NBhjNrfED ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。        |
-| 11   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
-| 12   | [阿里云盘]( https://www.aliyundrive.com/s/dKE1SMhqdwn )              | pdf文件分享，需要登录。                      |
-| 13   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
-| 14   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
-| 15   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
-| 16   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
+| 11   | [坚果云]( https://www.jianguoyun.com/p/Df38XDMQxP-NBhi3vKwE ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。        |
+| 12   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
+| 13   | [阿里云盘]( https://www.aliyundrive.com/s/A6HYqyw15Zr )              | pdf文件分享，需要登录。                      |
+| 14   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
+| 15   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
+| 16   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
+| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
-| 17   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
-| 18   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  |
-| 19   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html )     | gitlab静态网页，markdown转html。       |
+| 18   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
+| 19   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  |
+| 20   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html )     | gitlab静态网页，markdown转html。       |
 
 ---
 
@@ -530,19 +536,20 @@ pages:
 ### 3.4、名帖    
 
 ```
-高山仰止，景行行止。虽不能至，然心向往之。
+高山仰止，景行行止。虽不能至，心向往之。
    
-文徵明-小楷赤壁赋、颜真卿-多宝塔碑、王羲之-兰亭集序   
-```
+王羲之-兰亭集序、颜真卿-多宝塔碑、文徵明-小楷赤壁赋。所谓王颜文是也。
 
-> 文徵明-小楷赤壁赋 <br/>
-![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg )
+```
+> 王羲之-兰亭集序 <br/>
+![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg )
 
 > 颜真卿-多宝塔碑 <br/>
 ![颜真卿-多宝塔碑]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/颜真卿-多宝塔碑.jpg )
 
-> 王羲之-兰亭集序 <br/>
-![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg )
+> 文徵明-小楷赤壁赋 <br/>
+![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg )
+
 
 ---
 
@@ -720,7 +727,7 @@ pages:
 
 | 无为徐生   | 微信公众号                                               	 |  &ensp; |  今日头条号        |
 | ---------  | ------------------------------------------------------------- |  -      |  ----------        |
-|  二维码    | ![w]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/weixin/无为徐生.png ) | <br/> | ![t]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/toutiao/无为徐生.png )     |
+|  二维码    | ![w]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_weixin.png ) | <br/> | ![t]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_toutiao.png )     |
 
 ***
 
