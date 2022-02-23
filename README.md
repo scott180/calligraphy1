@@ -15,7 +15,7 @@
 
 ### 1.2、自勉
 
-此为本人书法练习历程： [书法练习轨迹--明月几时有]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )。记录每周练字情况，拍照留存及一些感想。之所以记录下来，主要是以下几点原因：  <br/>
+此为本人书法练习历程： [书法练习轨迹--明月几时有]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )。记录每周练字情况，拍照留存及一些感想。之所以记录下来，主要是以下几点原因：  <br/>
 一、是要把所写的字，由丑到美，由差到好的过程保存下来，方便对照。不想练的时候，觉得没有进步的时候，看看以前的丑字又会给自己无穷的动力：原来自己进步蛮大，天天练习还是有意义的。 <br/>
 二、是寻找志同道合者，对书法有兴趣的可以联系本人，相互交流，共同进步，所谓他山之石，可以攻玉。同时也希望书法大师不吝赐教，光临指导。 <br/>
 三、炫耀+装逼，引流+宣传。毕竟人生在世，名利二字。当然肯定是一年半载甚至三年五载，小有所成之后才能晒图，发朋友圈，示字与人。 <br/>
@@ -52,10 +52,10 @@
 | 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。每周一在此记录。            |
 | 2    | [sourceforge]( https://sourceforge.net/p/calligraphy/code ) &ensp; [imgs]( https://sourceforge.net/p/calligraphy/imgs )  		|  备份，网速较快，可保存公开资料。        	       |
 | 3    | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			    |  备份，最流行git仓库。国外网站，但有时打不开。   |
-| 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
+| 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git ) &ensp; [document]( https://xyqin.coding.net/public/my/document/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
 | 5    | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。      |
 | 6    | [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [imgs]( https://bitbucket.org/xu12345/imgs )                   |  备份，国外网站。markdown渲染不太完善。          |
-| 7    | [gitcode]( https://gitcode.net/xu180/calligraphy ) &ensp; [imgs]( https://gitcode.net/xu180/imgs )                             |  备份，csdn仓库。网速快，但偶尔会被封禁。        |
+| 7    | [gitcode]( https://gitcode.net/xu180/calligraphy ) &ensp; [imgs]( https://gitcode.net/xu180/imgs ) &ensp; [document]( https://gitcode.net/xu180/document )                        |  备份，csdn仓库。网速快，但偶尔会被封禁。        |
 | 8    | [codeberg]( https://codeberg.org/xuyq/calligraphy ) &ensp; [imgs]( https://codeberg.org/xuyq/imgs )                            |  备份，国外网站，速度还不错。                    |
 | -    | **内容**                        |                                    |
 | 9    | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20 )     |  自媒体，每周一在此发布书法练习轨迹。            |
@@ -88,8 +88,8 @@
 | 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
 | 18   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
-| 19   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  |
-| 20   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html )     | gitlab静态网页，markdown转html。       |
+| 19   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) 。|
+| 20   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe )     | gitlab静态网页。[docsify](  https://xuyq123.gitlab.io/myblog-docsify/#/%E6%96%87%E6%A1%A3/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe ) &ensp; [mkdocs]( https://xuyq123.gitlab.io/plain-mkdocs ) &ensp; [html]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) 。   |
 
 ---
 
@@ -188,8 +188,8 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 | 名称       | 仓库                                                			        |  备注            |
 | ---------  | -------------------------------------------------------------        |  ----------      |
-| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify )&ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify )&ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
-| myblog-docsify   | gitlab [myblog-docsify]( https://gitlab.com/xuyq123/myblog-docsify )&ensp; [**网页**](  https://xuyq123.gitlab.io/myblog-docsify/ ) <br/>github [myblog-docsify]( https://github.com/scott180/myblog-docsify )&ensp; [网页](  https://scott180.github.io/myblog-docsify/ ) |  笔记与博客docsify                  |
+| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify ) &ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify ) &ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
+| myblog-docsify   | gitlab [myblog-docsify]( https://gitlab.com/xuyq123/myblog-docsify ) &ensp; [**网页**](  https://xuyq123.gitlab.io/myblog-docsify/ ) <br/>github [myblog-docsify]( https://github.com/scott180/myblog-docsify ) &ensp; [网页](  https://scott180.github.io/myblog-docsify/ ) |  笔记与博客docsify                  |
 
 ---
 
@@ -220,6 +220,12 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 ---
 
+> 开通了微信小程序《书法练习轨迹》。练手项目，学习技术。聊以宣传，延伸轨迹。 [calligraphy-wxMiniProgram]( https://github.com/scott180/calligraphy-wxMiniProgram )  --202202
+
+![c]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/calligraphy-wxMiniProgram.jpg )
+
+---
+
 <div STYLE="page-break-after: always;"></div>
 
 ### 2.2、书法练习轨迹链接
@@ -246,9 +252,9 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 **仓库** 
 gitlab        https://gitlab.com/xuyq123/calligraphy
 sourceforge   https://sourceforge.net/p/calligraphy/code
-csdn_code     https://codechina.csdn.net/xu180/calligraphy
+gitcode       https://gitcode.net/xu180/calligraphy  https://gitcode.net/xu180/document
 github        https://github.com/scott180/calligraphy 
-coding        https://xyqin.coding.net/public/my/calligraphy/git
+coding        https://xyqin.coding.net/public/my/calligraphy/git  https://xyqin.coding.net/public/my/document/git
 gitee         https://gitee.com/xy180/calligraphy 
 bitbucket     https://bitbucket.org/xu12345/calligraphy
 codeberg      https://codeberg.org/xuyq/calligraphy
@@ -265,8 +271,8 @@ csdn博客      https://blog.csdn.net/xu180/article/details/113602103
 markdown      https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED                     
 百度网盘      https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ   提取码: zpxu  
 阿里云盘      https://www.aliyundrive.com/s/dKE1SMhqdwn 
-天翼云        https://cloud.189.cn/t/RRBbumb2MB7b
-和彩云        https://caiyun.139.com/m/i?125CmrCy7hU1y          提取码:WAmq 
+天翼云        https://cloud.189.cn/t/RRBbumb2MB7b   https://cloud.189.cn/web/share?code=eaeumunI7nym
+和彩云        https://caiyun.139.com/m/i?125CmrCy7hU1y  提取码:WAmq     https://caiyun.139.com/m/i?125CludT3Pzop  提取码:JVpY
 wps云盘       https://www.kdocs.cn/l/cpUDGjX6765H 
 微云          https://share.weiyun.com/JKZ4ANJ5   
 腾讯文档      https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx 
@@ -385,9 +391,11 @@ https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg
 
 coding  加载快，无屏蔽
 https://xyqin.coding.net/p/my/d/imgs/git/raw/master/mingyue/2021/202105/2021042601.jpg
+https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/calligraphy-wxMiniProgram.jpg
 
-csdn_code  加载快，无屏蔽
-https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg
+gitcode  加载快，无屏蔽
+https://gitcode.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg
+https://gitcode.net/xu180/document/-/raw/master/imgs/weixin/calligraphy-wxMiniProgram.jpg
 
 github  国外网站，加载慢
 https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg
@@ -709,6 +717,25 @@ pages:
 
 ---
 
+```
+人要经常思考并且善于思考，要认清自我，清楚自己的缺点，优点，明白自己的机会，威胁与过失。人贵有自知之明，自制之力，自强之心，此之谓大丈夫。
+ ——于车上
+2013年1月12日
+
+生活是一条大河
+2014年3月12日
+
+远处是山，近处是水，有山有水，山水相连。未来是画，现在是笔，画好画坏，全在笔端。
+2015年11月17日
+
+
+以上三句记于本人qq空间日志，今录于此。温故知新，三思后行。
+--20220215
+
+```
+
+---
+
 <div STYLE="page-break-after: always;"></div>
 
 
@@ -723,7 +750,7 @@ pages:
 ***
 
 > 注册了微信公众号及今日头条号：**无为徐生**，以后会将书法练习轨迹、程序员笔记以及一些随笔感想更新在此。<br/>
-> 每周一会在**无为徐生**微信公众号同步《书法练习轨迹》，持续更新，敬请关注。
+> 每周一会在无为徐生**微信公众号**同步《书法练习轨迹》，持续更新，敬请关注。
 
 | 无为徐生   | 微信公众号                                               	 |  &ensp; |  今日头条号        |
 | ---------  | ------------------------------------------------------------- |  -      |  ----------        |
