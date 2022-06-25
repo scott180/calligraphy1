@@ -40,7 +40,7 @@
 > 博客网站
 
 ```
-生活随笔-编程笔记-书法练习轨迹
+生活随笔-编程笔记-书法练习轨迹。
 ```
 
 | 徐书法 | 地址        |  备注          |
@@ -54,7 +54,7 @@
 > 主题网站
 
 ```
-使用vuepress、docsify、mkdocs等工具构建的不同主题不同域名的个人网站
+使用vuepress、docsify、mkdocs等工具构建的不同主题不同域名的个人网站。
 ```
 
 | 序号   | 我的网站    |  备注          |
@@ -70,7 +70,7 @@
 > 网站仓库
 
 ```
-《书法练习轨迹》博客网站及git仓库
+《书法练习轨迹》博客网站及git仓库。
 ```
 
 | 序号 | 类型       | 我的网站 | git静态网页 | git仓库 | 布署方法 | <span style="white-space:nowrap;">备注&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> |
@@ -122,9 +122,9 @@
 | 1    | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 ) &ensp; [ReadMe]( https://blog.csdn.net/xu180/article/details/118492424 )  |  程序员技术交流平台，发布文章，有删减。      |
 | 2    | [博客园]( https://www.cnblogs.com/scott123/p/15184752.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
 | 3    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 ) &ensp; [ReadMe]( https://www.yuque.com/longguang123/ccgbto/oby4hq )                |  文档与知识管理工具，无删减。阿里巴巴产品。  |
-| 4    | [SegmentFault 思否]( https://segmentfault.com/a/1190000041513337 )                |  新一代开发者社区和专业的技术媒体。  |
-| 5    | [开源中国 OSCHINA]( https://my.oschina.net/xy180/blog/5482689 )                   |  领先的中文开源技术社区。            |
-| 6    | [稀土掘金 juejin]( https://juejin.cn/post/7073717463862476830 )                   |  技术分享社区。                      |
+| 4    | [SegmentFault 思否]( https://segmentfault.com/a/1190000041513337 )   |  新一代开发者社区和专业的技术媒体。         |
+| 5    | [开源中国 OSCHINA]( https://my.oschina.net/xy180/blog/5482689 )      |  领先的中文开源技术社区。                   |
+| 6    | [稀土掘金 juejin]( https://juejin.cn/post/7073717463862476830 )      |  技术分享社区。                             |
 | -    | **笔记**                        |                                    |
 | 7    | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
 | 8    | [金山文档]( https://www.kdocs.cn/l/cpUDGjX6765H )                    | pdf文件分享，需要登录。                      |
@@ -141,15 +141,15 @@
 | 序号 | **云盘**                                              			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
 | 1    | [坚果云]( https://www.jianguoyun.com/p/Df38XDMQxP-NBhi3vKwE ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。         |
-| 2   | [百度网盘]( https://pan.baidu.com/s/1vE7fXHu1O1M6s8v5YCEFkw )        | 提取码: f9aq 。文件分享，需要登录。       |
-| 3   | [阿里云盘]( https://www.aliyundrive.com/s/z168Lhd36qe )              | 文件分享，需要登录。                      |
-| 4   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
-| 5   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
-| 6   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                 |
-| 7   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                            |
-| 8   | [金山文档]( https://kdocs.cn/l/ctHflHcmGvtS )                        | 文件分享，无删减。                            |
-| -   | **内容**                        |                                                                                   |
-| 9   | [豆瓣]( https://www.douban.com/photos/album/1881601083/ )            |  发现优质书影音，记录生活表达自我。          |
+| 2    | [百度网盘]( https://pan.baidu.com/s/1vE7fXHu1O1M6s8v5YCEFkw )        | 提取码: f9aq 。文件分享，需要登录。          |
+| 3    | [阿里云盘]( https://www.aliyundrive.com/s/z168Lhd36qe )              | 文件分享，需要登录。                         |
+| 4    | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
+| 5    | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。                    |
+| 6    | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。           |
+| 7    | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。      |
+| 8    | [金山文档]( https://kdocs.cn/l/ctHflHcmGvtS )                        | 文件分享，无删减。                           |
+| -    | **内容**                        |                                                                                   |
+| 9    | [豆瓣]( https://www.douban.com/photos/album/1881601083/ )            |  发现优质书影音，记录生活表达自我。          |
 | 10   | [知乎]( https://zhuanlan.zhihu.com/p/403400860 )                     |  问答社区和创作者聚集的原创内容平台。        |
 | 11   | [今日头条]( https://www.toutiao.com/a7003584972175147528/ )          |  通用信息平台，看见更大的世界。              |
 | 12   | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20 )     |  自媒体，每周一在【**无为徐生**】公众号发布`书法练习轨迹`一周练习图文记录。        |
@@ -277,11 +277,11 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 两种布署方法参见博客网站的资料。 --20210813
 ```
 
-| 名称       | 仓库                                                			        |  备注            |
-| ---------  | -------------------------------------------------------------        |  ----------      |
-| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify ) &ensp; [网页](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify ) &ensp; [网页](  https://scott180.github.io/plain-docsify/ )        |  笔记        |
-| docsify-blog     | github [docsify-blog]( https://github.com/scott180/docsify-blog ) &ensp; [网页](  https://scott180.github.io/docsify-blog ) |  博客docsify  |
-| docsify-calligraphy       | github [docsify-calligraphy]( https://github.com/scott180/docsify-calligraphy ) &ensp; [网页](  https://scott180.github.io/docsify-calligraphy )                    |  书法练习轨迹           |
+| 名称                 | 仓库                  |  备注        |
+| -------------------  | -------------------   |  ----------  |
+| plain-docsify        | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify ) &ensp; [网页](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify ) &ensp; [网页](  https://scott180.github.io/plain-docsify/ )    |  笔记        |
+| docsify-blog         | github [docsify-blog]( https://github.com/scott180/docsify-blog ) &ensp; [网页](  https://scott180.github.io/docsify-blog ) |  博客docsify         |
+| docsify-calligraphy  | github [docsify-calligraphy]( https://github.com/scott180/docsify-calligraphy ) &ensp; [网页](  https://scott180.github.io/docsify-calligraphy )   |  书法练习轨迹   |
 
 ---
 
@@ -294,7 +294,7 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 | 序号 | 1    | 2    | 3    | 4    | 5    | 6    |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  **链接**   | [gitlab_pages]( https://xuyq123.gitlab.io/plain/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )  |  [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf )    | [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247484803&idx=1&sn=b6711609078268e817fd244f9d095078&chksm=cfb5eb72f8c2626471240152663a7ec184dfb677733d194eea4d237d800ed571cc5f643f4fa8&token=1687261351&lang=zh_CN#rd ) | [csdn]( https://blog.csdn.net/xu180/article/details/118940065 )   | [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )   |
+|  **链接**   | [gitlab_pages]( https://xuyq123.gitlab.io/plain/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )  |  [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf )    | [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247484803&idx=1&sn=b6711609078268e817fd244f9d095078 ) | [csdn]( https://blog.csdn.net/xu180/article/details/118940065 )   | [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )   |
 
 ---
 
@@ -312,7 +312,7 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 | 序号 | 1    | 2    | 3    | 4    | 5    |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-|  **链接**   | [gitlab_docsify]( https://xuyq123.gitlab.io/myblog-docsify/#/%E6%96%87%E6%A1%A3/%E6%97%A0%E4%B8%BA%E5%BE%90%E7%94%9F )  |  [美篇]( https://www.meipian.cn/3rzt1rtc ) | [作业部落]( https://www.zybuluo.com/scott180/note/1686777 ) | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247484710&idx=1&sn=3e74cc71e835e6cbc019f1edee8a24d6&chksm=cfb5ebd7f8c262c1edf31245b3e14ded8b8675f22fe432399a307a83e602bae15a021600b949&token=1687261351&lang=zh_CN#rd )   | [github_pages]( https://scott180.github.io/calligraphy/%E6%97%A0%E4%B8%BA%E5%BE%90%E7%94%9F )   |
+|  **链接**   | [gitlab_docsify]( https://xuyq123.gitlab.io/myblog-docsify/#/%E6%96%87%E6%A1%A3/%E6%97%A0%E4%B8%BA%E5%BE%90%E7%94%9F )  |  [美篇]( https://www.meipian.cn/3rzt1rtc ) | [作业部落]( https://www.zybuluo.com/scott180/note/1686777 ) | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247484710&idx=1&sn=3e74cc71e835e6cbc019f1edee8a24d6 )   | [github_pages]( https://scott180.github.io/calligraphy/%E6%97%A0%E4%B8%BA%E5%BE%90%E7%94%9F )   |
 
 ---
 
@@ -325,7 +325,6 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 <br/>
 
 ---
-
 
 > git平台 &ensp; 官网 &ensp; 项目地址 &ensp; 静态网页 &ensp; docsify网页 &ensp; mkdocs网页 &ensp; HTTPS &ensp; SSH &ensp; 图片地址  
 
@@ -511,7 +510,7 @@ https://sourceforge.net/p/calligraphy/imgs/ci/master/tree/mingyue/2022/202201/20
 codeberg 速度较快
 https://codeberg.org/xuyq/imgs/raw/branch/master/mingyue/2022/202201/2022012101.jpg
 
-npm  cdn
+cdn npm node
 https://cdn.jsdelivr.net/npm/xushufa-imgs/imgs/mingyue/2021/202112/2021120801.jpg
 https://cdn.jsdelivr.net/npm/xushufa-imgs2/imgs/mingyue/2022/202205/2022050801.jpg
 
@@ -522,14 +521,15 @@ https://cdn.jsdelivr.net/npm/xushufa-imgs2/imgs/mingyue/2022/202205/2022050801.j
 
 <div STYLE="page-break-after: always;"></div>
 
-
 ## 三、账号
 
 > **作者**
 
 徐永钦<br/>
 生于无为，学于合肥，居于杭州。<br/>
-君子固穷，记而不作，未来已来。<br/>
+程序开发，书法练习，上下求索。<br/>
+君子不器，学且与思，知行合一。<br/>
+温故知新，记而不作，未来已来。<br/>
 
 以[无为徐生]( https://xushufa.cn/%E7%BB%83%E4%B9%A0/%E6%97%A0%E4%B8%BA%E5%BE%90%E7%94%9F.html )之名作[书法练习轨迹]( https://xushufa.cn/%E8%BD%A8%E8%BF%B9/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89-%E6%97%A0%E5%9B%BE%E7%89%88.html )成[徐书法]( https://xushufa.cn/%E7%BB%83%E4%B9%A0/%E5%BE%90%E4%B9%A6%E6%B3%95.html )。 <br/>
 做人如果没有梦想，那跟咸鱼有什么区别。 <br/>
